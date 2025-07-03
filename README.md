@@ -1,5 +1,5 @@
 # Playwright Demo - London Stock Exchange Tests
- Playwright tests for the FTSE 100 list, created for a technical assesment to demonstrate capability with the Playwright test framework. 
+ Playwright tests for the FTSE 100 list, created for a technical assessment to demonstrate capability with the Playwright test framework. 
 
  # Test Scenarios (Assesment Specifications)
 1. Navigate to the London Stock Exchange website: https://www.londonstockexchange.com/.
