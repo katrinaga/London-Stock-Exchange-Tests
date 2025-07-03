@@ -1,5 +1,5 @@
 # Playwright Demo - London Stock Exchange Tests
- Playwright tests for the FTSE 100 list, created for a technical assesment. 
+ Playwright tests for the FTSE 100 list, created for a technical assesment to demonstrate capability with the Playwright test framework. 
 
  # Test Scenarios (Assesment Specifications)
 1. Navigate to the London Stock Exchange website: https://www.londonstockexchange.com/.
@@ -15,9 +15,9 @@
 I have also used helper functions to collect the data needed for scenarios 2, 3, 4 & 5. This is to, as much as possible, seperate out the gathering of the data itself from the tests that validate it. The results from the data scraping are saved to JSON files so that they can also be manually checked, if needed. These data-gathering functions are called in beforeAll tests, as they only need to be ran once.
 
  # Question regarding Scenario #4
- The instructions here was *"Write a test to Identify, extract, and display somewhere of choice all FTSE 100 constituents where the ‘Market Cap’ exceeds 7 million."*
+ The instruction here was *"Write a test to Identify, extract, and display somewhere of choice all FTSE 100 constituents where the ‘Market Cap’ exceeds 7 million."*
 
- I am not sure if this was a mistake, as all of the FTSE 100 constituents market cap exceeds 7 million by a huge amount. (The market cap is listed in Millions, and 3,544.37 is the lowest value at the time of writing.) It is possible the scenario should have been "7 Billon". However, I was unable to confirm this with the recruiter who issued the test. It is possible I have misunderstood the instruction here but, as it stands, there is nothing to filter out or identify here, so the test result (ftse-constituents-market-cap-over-7-million) will contain all 100 constituents. 
+ I am not sure if this was a mistake, as all of the FTSE 100 constituents market cap exceeds 7 million by a huge amount. (The market cap is listed in Millions, and 3,544.37 is the lowest value at the time of writing.) It is possible the scenario should have been "7 Billon". However, I was unable to confirm this with the recruiter who issued the assessment. It is possible I have misunderstood the instruction here but, as it stands, there is nothing to filter out or identify here, so the test result (ftse-constituents-market-cap-over-7-million) will contain all 100 constituents. 
 
  # Known Issues / Areas for Future Improvement: 
 
