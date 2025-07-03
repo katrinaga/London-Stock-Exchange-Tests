@@ -12,7 +12,7 @@
 
  Navigation functions are all handled in **helpers.ts**.
 
-I have also used helper functions to collect the data needed for scenarios 2, 3, 4 & 5. This is to, as much as possible, seperate out the gathering of the data itself from the tests that validate it. The results from the data scraping are saved to JSON files so that they can also be manually checked, if needed. These data-gathering functions are called in beforeAll tests. 
+I have also used helper functions to collect the data needed for scenarios 2, 3, 4 & 5. This is to, as much as possible, seperate out the gathering of the data itself from the tests that validate it. The results from the data scraping are saved to JSON files so that they can also be manually checked, if needed. These data-gathering functions are called in beforeAll tests, as they only need to be ran once.
 
  # Question regarding Scenario #4
  The instructions here was *"Write a test to Identify, extract, and display somewhere of choice all FTSE 100 constituents where the ‘Market Cap’ exceeds 7 million."*
@@ -21,7 +21,7 @@ I have also used helper functions to collect the data needed for scenarios 2, 3,
 
  # Known Issues / Areas for Future Improvement: 
 
-1) Tests are flakier than they should be and shouldn't be ran in paralel to circumvent this. This is often caused by pages loading slower than expected, or by the animated "accept cookies" banner taking too long to appear, or appearing at unexpected times. Timeouts and waits have been used to help with this, but the tests still fail occasionally if the page is particularly slow to load. Was not able to finish investigating this issue due to time constraints. If this issue is encountered, please re-run the failing tests and they should pass on retry. 
+1) Tests are flakier than they should be and shouldn't be ran in parallel to circumvent this. This is often caused by pages loading slower than expected, or by the animated "accept cookies" banner taking too long to appear, or appearing at unexpected times. Timeouts and waits have been used to help with this, but the tests still fail occasionally if the page is particularly slow to load. Was not able to finish investigating this issue due to time constraints. If this issue is encountered, please re-run the failing tests and they should pass on retry. 
 
 2) Navigation functions and data gatheirng functions are both stored in a single "helpers.ts" file. For a larger project it would make sense to seperate these out furthur into specific "navigation" functions and "data scraping" functions. 
 
