@@ -1,0 +1,402 @@
+[
+  {
+    "name": "LLOY",
+    "marketCap": 44136.73
+  },
+  {
+    "name": "CRDA",
+    "marketCap": 4190.46
+  },
+  {
+    "name": "HWDN",
+    "marketCap": 4549.76
+  },
+  {
+    "name": "MKS",
+    "marketCap": 109986.79
+  },
+  {
+    "name": "RR.",
+    "marketCap": 79759.01
+  },
+  {
+    "name": "BATS",
+    "marketCap": 76049.25
+  },
+  {
+    "name": "REL",
+    "marketCap": 70801.23
+  },
+  {
+    "name": "BP.",
+    "marketCap": 60329.59
+  },
+  {
+    "name": "GSK",
+    "marketCap": 57630.41
+  },
+  {
+    "name": "LSEG",
+    "marketCap": 57046.09
+  },
+  {
+    "name": "BA.",
+    "marketCap": 55733.97
+  },
+  {
+    "name": "RIO",
+    "marketCap": 54939.02
+  },
+  {
+    "name": "NG.",
+    "marketCap": 50562.26
+  },
+  {
+    "name": "BARC",
+    "marketCap": 46171.91
+  },
+  {
+    "name": "LLOY",
+    "marketCap": 44136.73
+  },
+  {
+    "name": "DGE",
+    "marketCap": 42726.27
+  },
+  {
+    "name": "CPG",
+    "marketCap": 42673.39
+  },
+  {
+    "name": "III",
+    "marketCap": 39422.85
+  },
+  {
+    "name": "NWG",
+    "marketCap": 38374.73
+  },
+  {
+    "name": "GLEN",
+    "marketCap": 36513.73
+  },
+  {
+    "name": "AZN",
+    "marketCap": 161114.68
+  },
+  {
+    "name": "HSBA",
+    "marketCap": 154731.09
+  },
+  {
+    "name": "SHEL",
+    "marketCap": 154593.05
+  },
+  {
+    "name": "ULVR",
+    "marketCap": 109986.79
+  },
+  {
+    "name": "RR.",
+    "marketCap": 79759.01
+  },
+  {
+    "name": "BATS",
+    "marketCap": 76049.25
+  },
+  {
+    "name": "REL",
+    "marketCap": 70801.23
+  },
+  {
+    "name": "BP.",
+    "marketCap": 60329.59
+  },
+  {
+    "name": "GSK",
+    "marketCap": 57630.41
+  },
+  {
+    "name": "LSEG",
+    "marketCap": 57046.09
+  },
+  {
+    "name": "BA.",
+    "marketCap": 55733.97
+  },
+  {
+    "name": "RIO",
+    "marketCap": 54939.02
+  },
+  {
+    "name": "NG.",
+    "marketCap": 50562.26
+  },
+  {
+    "name": "BARC",
+    "marketCap": 46171.91
+  },
+  {
+    "name": "LLOY",
+    "marketCap": 44136.73
+  },
+  {
+    "name": "DGE",
+    "marketCap": 42726.27
+  },
+  {
+    "name": "CPG",
+    "marketCap": 42673.39
+  },
+  {
+    "name": "III",
+    "marketCap": 39422.85
+  },
+  {
+    "name": "NWG",
+    "marketCap": 38374.73
+  },
+  {
+    "name": "GLEN",
+    "marketCap": 36513.73
+  },
+  {
+    "name": "EXPN",
+    "marketCap": 34669.13
+  },
+  {
+    "name": "RKT",
+    "marketCap": 33879.18
+  },
+  {
+    "name": "HLN",
+    "marketCap": 33467.83
+  },
+  {
+    "name": "CCEP",
+    "marketCap": 31576.86
+  },
+  {
+    "name": "STAN",
+    "marketCap": 27832.17
+  },
+  {
+    "name": "AAL",
+    "marketCap": 26665.17
+  },
+  {
+    "name": "TSCO",
+    "marketCap": 26049.46
+  },
+  {
+    "name": "PRU",
+    "marketCap": 23428.58
+  },
+  {
+    "name": "IMB",
+    "marketCap": 22898.82
+  },
+  {
+    "name": "AHT",
+    "marketCap": 20477.29
+  },
+  {
+    "name": "SSE",
+    "marketCap": 20089.04
+  },
+  {
+    "name": "VOD",
+    "marketCap": 19268.84
+  },
+  {
+    "name": "BT.A",
+    "marketCap": 19221.06
+  },
+  {
+    "name": "ANTO",
+    "marketCap": 18889.01
+  },
+  {
+    "name": "AV.",
+    "marketCap": 16233.87
+  },
+  {
+    "name": "IAG",
+    "marketCap": 16075.44
+  },
+  {
+    "name": "ABF",
+    "marketCap": 14792.05
+  },
+  {
+    "name": "NXT",
+    "marketCap": 14730.95
+  },
+  {
+    "name": "LGEN",
+    "marketCap": 14268.51
+  },
+  {
+    "name": "CCH",
+    "marketCap": 13864.19
+  },
+  {
+    "name": "IHG",
+    "marketCap": 13271.38
+  },
+  {
+    "name": "HLMA",
+    "marketCap": 12004.39
+  },
+  {
+    "name": "SMT",
+    "marketCap": 11983.38
+  },
+  {
+    "name": "SGE",
+    "marketCap": 11698.36
+  },
+  {
+    "name": "FRES",
+    "marketCap": 10618.64
+  },
+  {
+    "name": "INF",
+    "marketCap": 10555.23
+  },
+  {
+    "name": "ADM",
+    "marketCap": 10132.56
+  },
+  {
+    "name": "SN.",
+    "marketCap": 9679.32
+  },
+  {
+    "name": "SGRO",
+    "marketCap": 9014.25
+  },
+  {
+    "name": "RTO",
+    "marketCap": 8851.24
+  },
+  {
+    "name": "SVT",
+    "marketCap": 8054.41
+  },
+  {
+    "name": "CNA",
+    "marketCap": 7721.51
+  },
+  {
+    "name": "BNZL",
+    "marketCap": 7641.1
+  },
+  {
+    "name": "UU.",
+    "marketCap": 7637.15
+  },
+  {
+    "name": "ITRK",
+    "marketCap": 7559.6
+  },
+  {
+    "name": "SMIN",
+    "marketCap": 7392.1
+  },
+  {
+    "name": "PSH",
+    "marketCap": 7192.05
+  },
+  {
+    "name": "AUTO",
+    "marketCap": 7077.98
+  },
+  {
+    "name": "PSON",
+    "marketCap": 6958.72
+  },
+  {
+    "name": "MKS",
+    "marketCap": 6956.78
+  },
+  {
+    "name": "MRO",
+    "marketCap": 6755.29
+  },
+  {
+    "name": "AAF",
+    "marketCap": 6500.3
+  },
+  {
+    "name": "DPLM",
+    "marketCap": 6480.71
+  },
+  {
+    "name": "WEIR",
+    "marketCap": 6427.99
+  },
+  {
+    "name": "PHNX",
+    "marketCap": 6398.01
+  },
+  {
+    "name": "SBRY",
+    "marketCap": 6390.44
+  },
+  {
+    "name": "BTRW",
+    "marketCap": 6227.24
+  },
+  {
+    "name": "STJ",
+    "marketCap": 6208.31
+  },
+  {
+    "name": "MNG",
+    "marketCap": 6088.84
+  },
+  {
+    "name": "RMV",
+    "marketCap": 5977.03
+  },
+  {
+    "name": "ENT",
+    "marketCap": 5890.18
+  },
+  {
+    "name": "SDR",
+    "marketCap": 5846.88
+  },
+  {
+    "name": "WPP",
+    "marketCap": 5706.86
+  },
+  {
+    "name": "BEZ",
+    "marketCap": 5601.17
+  },
+  {
+    "name": "ICG",
+    "marketCap": 5591.87
+  },
+  {
+    "name": "EDV",
+    "marketCap": 5459.5
+  },
+  {
+    "name": "MNDI",
+    "marketCap": 5442.62
+  },
+  {
+    "name": "BAB",
+    "marketCap": 5409.88
+  },
+  {
+    "name": "FCIT",
+    "marketCap": 5398.69
+  },
+  {
+    "name": "CTEC",
+    "marketCap": 5276.16
+  }
+]
